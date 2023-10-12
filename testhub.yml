@@ -1,0 +1,113 @@
+    - inlist: inlist_wd_cool_0.6M_header
+    - inlist: inlist_wd_cool_0.6M_header
+    - inlist: inlist_wd_cool_0.6M_header
+    - inlist: inlist_wd_cool_0.6M_header
+      runtime_minutes:   3.83
+      model_number:          215
+      star_age:     9.8386990422958851E+09
+      num_retries:            1
+      log_rel_run_E_err:        -3.8864470789890602
+      steps:          215
+      retries:            1
+      redos:            0
+      solver_calls_made:          216
+      solver_calls_failed:            1
+      solver_iterations:         1019
+    - inlist: inlist_wd_cool_0.6M_header
+      runtime_minutes:   4.02
+      model_number:          215
+      star_age:     9.8386990422958851E+09
+      num_retries:            1
+      log_rel_run_E_err:        -3.8864470789890602
+      steps:          215
+      retries:            1
+      redos:            0
+      solver_calls_made:          216
+      solver_calls_failed:            1
+      solver_iterations:         1019
+    - inlist: inlist_wd_cool_0.6M_header
+      runtime_minutes:   4.06
+      model_number:          215
+      star_age:     9.8386990422958851E+09
+      num_retries:            1
+      log_rel_run_E_err:        -3.8864470789890602
+      steps:          215
+      retries:            1
+      redos:            0
+      solver_calls_made:          216
+      solver_calls_failed:            1
+      solver_iterations:         1019
+    - inlist: inlist_wd_cool_0.6M_header
+      runtime_minutes:   3.91
+      model_number:          215
+      star_age:     9.8386990422958851E+09
+      num_retries:            1
+      log_rel_run_E_err:        -3.8864470789890602
+      steps:          215
+      retries:            1
+      redos:            0
+      solver_calls_made:          216
+      solver_calls_failed:            1
+      solver_iterations:         1019
+    - inlist: inlist_wd_cool_0.6M_header
+      runtime_minutes:   4.05
+      model_number:          215
+      star_age:     9.8386990422958851E+09
+      num_retries:            1
+      log_rel_run_E_err:        -3.8864470789890602
+      steps:          215
+      retries:            1
+      redos:            0
+      solver_calls_made:          216
+      solver_calls_failed:            1
+      solver_iterations:         1019
+    - inlist: inlist_wd_cool_0.6M_header
+      runtime_minutes:   3.74
+      model_number:          215
+      star_age:     9.8386990422958851E+09
+      num_retries:            1
+      log_rel_run_E_err:        -3.8864470789890602
+      steps:          215
+      retries:            1
+      redos:            0
+      solver_calls_made:          216
+      solver_calls_failed:            1
+      solver_iterations:         1019
+    - inlist: inlist_wd_cool_0.6M_header
+    - inlist: inlist_wd_cool_0.6M_header
+      runtime_minutes:   4.01
+      model_number:          215
+      star_age:     9.8386990422958851E+09
+      num_retries:            1
+      log_rel_run_E_err:        -3.8864470789890602
+      steps:          215
+      retries:            1
+      redos:            0
+      solver_calls_made:          216
+      solver_calls_failed:            1
+      solver_iterations:         1019
+    - inlist: inlist_wd_cool_0.6M_header
+    - inlist: inlist_wd_cool_0.6M_header
+      runtime_minutes:   3.87
+      model_number:          215
+      star_age:     9.8386990422958851E+09
+      num_retries:            1
+      log_rel_run_E_err:        -3.8864470789890602
+      steps:          215
+      retries:            1
+      redos:            0
+      solver_calls_made:          216
+      solver_calls_failed:            1
+      solver_iterations:         1019
+    - inlist: inlist_wd_cool_0.6M_header
+      runtime_minutes:   4.48
+      model_number:          215
+      star_age:     9.8386990422958851E+09
+      num_retries:            1
+      log_rel_run_E_err:        -3.8864470789890602
+      steps:          215
+      retries:            1
+      redos:            0
+      solver_calls_made:          216
+      solver_calls_failed:            1
+      solver_iterations:         1019
